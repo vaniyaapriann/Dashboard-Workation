@@ -48,8 +48,8 @@ Derived columns:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/workation-dashboard.git
-   cd workation-dashboard
+   git clone https://github.com/your-username/Dashboard-Workation.git
+   cd Dashboard-Workation
    ```
 
 2. **Install dependencies**:
@@ -59,7 +59,7 @@ Derived columns:
 
 3. **Launch the app**:
    ```bash
-   streamlit run app.py
+   streamlit run main_app.py
    ```
 
 ---
@@ -68,8 +68,9 @@ Derived columns:
 
 ```
 📁 workation-dashboard
-├── 📄 app.py                ← Main Streamlit dashboard
+├── 📄 main_app.py                ← Main Streamlit dashboard
 ├── 📁 Dataset/              ← Contains cleaned dataset (workation_cleaned.csv)
+├── 📁 .streamlit/              ← Contains config (config.toml)
 ├── 📄 requirements.txt      ← Required packages
 └── 📄 README.md             ← You're here!
 ```
