@@ -1,3 +1,4 @@
+ HEAD
 
 # 📘 Best Cities for Workation Dashboard
 
@@ -73,3 +74,6 @@ Derived columns:
 ├── 📄 requirements.txt      ← Required packages
 └── 📄 README.md             ← You're here!
 ```
+=======
+# Dashboard-Workation
+6432e49691945008753148ec7658e04d24a1e9dc
