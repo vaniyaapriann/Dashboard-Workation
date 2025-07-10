@@ -2,10 +2,10 @@
 # 📘 Best Cities for Workation Dashboard
 
 ## Our Team
-Natania Setyawati (2205551001)
-Ni Komang Gita Sri Adnyani (2205551010)
-Ni Komang Vaniya Apriandani (2205551019)
-SInta Purnama Dewi (2205551100)
+- Natania Setyawati (2205551001)
+- Ni Komang Gita Sri Adnyani (2205551010)
+- Ni Komang Vaniya Apriandani (2205551019)
+- Sinta Purnama Dewi (2205551100)
 
 ## 🌍 Overview
 This Streamlit dashboard helps users discover and compare the **best global cities for a “workation”** — a mix of *work* and *vacation*. It evaluates cities based on factors such as WiFi speed, rent cost, sunshine hours, and social appeal, and is intended for digital nomads, remote workers, and travel enthusiasts.
